@@ -1,0 +1,1 @@
+ C:\\GitRepository\\FlutterProject\\light_up\\light_up\\.dart_tool\\flutter_build\\eb819a2dbac82a9a8c0f8debac200ead\\native_assets.json: 

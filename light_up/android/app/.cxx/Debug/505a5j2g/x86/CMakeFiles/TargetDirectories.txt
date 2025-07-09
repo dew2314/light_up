@@ -1,0 +1,2 @@
+C:/GitRepository/FlutterProject/light_up/light_up/android/app/.cxx/Debug/505a5j2g/x86/CMakeFiles/edit_cache.dir
+C:/GitRepository/FlutterProject/light_up/light_up/android/app/.cxx/Debug/505a5j2g/x86/CMakeFiles/rebuild_cache.dir
